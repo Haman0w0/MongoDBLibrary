@@ -1,0 +1,102 @@
+[
+  {
+    "Title": "創新思維與設計思考",
+    "Authors": ["路遙", "魯迅"],
+    "BorrowCount": 2
+  },
+  {
+    "Title": "遊戲開發基礎",
+    "Authors": ["魯迅", "金庸", "夏洛蒂·勃朗特"],
+    "BorrowCount": 3
+  },
+  {
+    "Title": "量子計算入門",
+    "Authors": ["J.K. 羅琳", "菲茨傑拉德", "宮部美幸"],
+    "BorrowCount": 1
+  },
+  {
+    "Title": "電腦視覺實戰",
+    "Authors": ["張愛玲"],
+    "BorrowCount": 3
+  },
+  {
+    "Title": "Web開發完全指南",
+    "Authors": ["張愛玲", "劉慈欣"],
+    "BorrowCount": 2
+  },
+  {
+    "Title": "人工智慧應用",
+    "Authors": ["渡邊淳一", "余秋雨", "喬治·奧威爾"],
+    "BorrowCount": 1
+  },
+  {
+    "Title": "自然語言處理概論",
+    "Authors": ["余秋雨", "莫言", "馬克·吐溫"],
+    "BorrowCount": 2
+  },
+  {
+    "Title": "網路安全指南",
+    "Authors": ["巴金", "古龍", "艾米莉·狄更生"],
+    "BorrowCount": 1
+  },
+  {
+    "Title": "大數據分析",
+    "Authors": ["池上遼一", "馬克·吐溫", "川端康成"],
+    "BorrowCount": 1
+  },
+  {
+    "Title": "區塊鏈與金融科技",
+    "Authors": ["余秋雨", "路遙", "菲茨傑拉德"],
+    "BorrowCount": 1
+  },
+  {
+    "Title": "智慧家庭技術",
+    "Authors": ["村上春樹"],
+    "BorrowCount": 1
+  },
+  {
+    "Title": "行動應用開發",
+    "Authors": ["莎士比亞", "簡·奧斯汀"],
+    "BorrowCount": 1
+  },
+  {
+    "Title": "七天學會ChatGPT入門與活用",
+    "Authors": ["古龍", "莫言", "喬治·奧威爾"],
+    "BorrowCount": 2
+  },
+  {
+    "Title": "資料結構與演算法",
+    "Authors": ["海明威", "余秋雨", "吳承恩"],
+    "BorrowCount": 2
+  },
+  {
+    "Title": "數位影像處理",
+    "Authors": ["池上遼一"],
+    "BorrowCount": 1
+  },
+  {
+    "Title": "日本環球影城全攻略",
+    "Authors": ["金庸", "喬治·奧威爾", "渡邊淳一"],
+    "BorrowCount": 1
+  },
+  {
+    "Title": "區塊鏈與金融科技",
+    "Authors": ["菲茨傑拉德", "川端康成"],
+    "BorrowCount": 1
+  },
+  {
+    "Title": "Python 程式設計",
+    "Authors": ["池上遼一"],
+    "BorrowCount": 1
+  },
+  {
+    "Title": "行動應用開發",
+    "Authors": ["莎士比亞", "簡·奧斯汀"],
+    "BorrowCount": 1
+  },
+  {
+    "Title": "七天學會ChatGPT入門與活用",
+    "Authors": ["莫言", "金庸"],
+    "BorrowCount": 1
+  }
+]
